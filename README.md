@@ -1,13 +1,17 @@
 <!-- Animated Header -->
+<!-- Premium Dark Purple Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sanduli%20Ulapane&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2E0249,50:570A57,100:A91079&text=Sanduli%20Ulapane&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20QA%20%7C%20UI%2FUX%20Explorer&descAlignY=55&descAlign=50"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineer;QA+Enthusiast;UI%2FUX+Explorer;Self+Learner;Building+Quality+Driven+Systems" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=C77DFF&center=true&vCenter=true&width=650&lines=Building+Quality+Driven+Systems;Passionate+About+Software+Testing;Designing+User-Centered+Experiences;Continuous+Self+Learner;Future+Tech+Professional" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandulapane-ui&theme=radical&no-frame=true&margin-w=8&margin-h=8"/>
+</p>
+
 
 ---
 
@@ -76,12 +80,12 @@ https://www.credly.com/users/sandu-ulapane
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sandulapane-ui&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandulapane-ui&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandulapane-ui&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
