@@ -8,9 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=C77DFF&center=true&vCenter=true&width=650&lines=Building+Quality+Driven+Systems;Passionate+About+Software+Testing;Designing+User-Centered+Experiences;Continuous+Self+Learner;Future+Tech+Professional" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanduulapane-ui&theme=radical&no-frame=true&margin-w=8&margin-h=8"/>
-</p>
+
+
 
 
 ---
